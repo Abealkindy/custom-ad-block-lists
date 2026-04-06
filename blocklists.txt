@@ -19,7 +19,8 @@ x.com##[href*="/i/premium_sign_up"] 
 x.com##[aria-label*="Grok actions"] 
 x.com##[aria-label*="Profile Summary"]
 x.com##.css-175oi2r.r-1777fci.r-1wzrnnt
-x.com##[data-testid*="grokImgGen"] 
+x.com##[data-testid*="grokImgGen"]
+x.com##.css-175oi2r.r-rki7wi.r-1ba6zt5.r-u8s1d
 x.com##[data-testid*="GrokDrawer"]
 x.com##.css-175oi2r.r-1s2bzr4.r-dnmrzs.r-bnwqim x.com##.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x
 ! same purpose as syntax above, but for uBlock
