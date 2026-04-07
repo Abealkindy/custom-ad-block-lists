@@ -19,6 +19,12 @@ shop#?#[data-v-ee857c74] 
 jalalivebola.id##.hongbao1e 
 jalalivebola.id##.kpgg-two-bo > .el-image > .el-image__inner 
 ! f ya elon 
+x.com#?#div[data-testid=cellInnerDiv]:has(h2)
+x.com#?#div[data-testid=cellInnerDiv]:has(div[data-testid="trend"])
+x.com#?#div[data-testid=cellInnerDiv]:has(div[data-testid="listCell"])
+x.com#?#div[data-testid=cellInnerDiv]:has(button[data-testid="UserCell"])
+x.com#?#div[data-testid=cellInnerDiv]:has-text(/[gr4][o0]k/)
+x.com#?#div[data-testid=cellInnerDiv]:has-text(Made with AI)
 x.com##[href*="/i/grok"] 
 x.com##[href*="/i/premium_sign_up"] 
 x.com##[aria-label*="Grok actions"] 
@@ -29,8 +35,6 @@ x.com##.css-175oi2r.r-rki7wi.r-1ba6zt5.r-u8s1d
 x.com##[data-testid*="GrokDrawer"]
 x.com##.css-175oi2r.r-1s2bzr4.r-dnmrzs.r-bnwqim 
 x.com##.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x
-! same purpose as syntax above, but for uBlock
-x.com##div.r-1udh08x.r-1ifxtd0.r-rs99b7.r-1phboty.r-1867qdf.r-1kqtdi0.r-kemksi.css-175oi2r
 x.com##.css-175oi2r.r-1habvwh.r-kemksi.r-1kqtdi0.r-1q9bdsx.r-rs99b7.r-1ssbvtb.r-1mmae3n.r-3pj75a 
 x.com##.css-175oi2r.r-1awozwy.r-g2wdr4.r-1kqtdi0.r-1867qdf.r-rs99b7.r-18u37iz.r-1wtj0ep.r-knv0ih.r-1mmae3n.r-3o4zer.r-1loqt21.r-1ny4l3l 
 ! iklan komik bajakan 
