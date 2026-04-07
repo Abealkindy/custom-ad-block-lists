@@ -19,7 +19,13 @@ shop#?#[data-v-ee857c74] 
 jalahs77##.hongbao1e
 jalahs77##.el-dialog
 jalahs77##.upadn
-jalahs77##.live-funst 
+jalahs77##.live-funst
+jalahs77##[id="playerTabs"]
+jalahs77##.van-overlay
+jalahs77##.maskClass
+jalahs77##.noticeBar
+jalahs77##.rightListBox
+jllivetx##.cover 
 jalahs77##.kpgg-two-bo > .el-image > .el-image__inner 
 ! f ya elon 
 x.com#?#div[data-testid=cellInnerDiv]:has(h2) 
