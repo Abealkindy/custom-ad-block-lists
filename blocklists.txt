@@ -1,5 +1,10 @@
 [Adblock Plus]
 
+! Title: Grok's and Annoyances Blocker
+! Description: (Mainly) blocks most of Grok's and Premium buttons
+! Homepage: https://github.com/Abealkindy/custom-ad-block-lists
+! Expires: 1 day
+
 ! iklan streaming olahraga bajakan 
 shop##.czlll-rlselse 
 cfd##.czlll-rlselse 
