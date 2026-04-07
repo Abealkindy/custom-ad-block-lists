@@ -38,28 +38,34 @@ x.com##.css-175oi2r.r-1s2bzr4.r-dnmrzs.r-bnwqim 
 x.com##.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x
 x.com##.css-175oi2r.r-1habvwh.r-kemksi.r-1kqtdi0.r-1q9bdsx.r-rs99b7.r-1ssbvtb.r-1mmae3n.r-3pj75a 
 x.com##.css-175oi2r.r-1awozwy.r-g2wdr4.r-1kqtdi0.r-1867qdf.r-rs99b7.r-18u37iz.r-1wtj0ep.r-knv0ih.r-1mmae3n.r-3o4zer.r-1loqt21.r-1ny4l3l 
+
+
 ! iklan komik bajakan 
-realmoasis##.ver-src.hillt.chapter 
-reaperscans##.col-span-12.container 
-asuracomic##.bg-gradient-to-br.from-indigo-900.via-purple-900.to-indigo-800.text-white.py-8.px-4.md\:py-12.md\:px-10.shadow-lg.relative.overflow-hidden 
-asuracomic##[style*="pointer-events: auto;"] 
-asuracomic##.fixed.inset-0.bg-gray-900.bg-opacity-75.flex.items-center.justify-center.z-50.p-4 
-asuracomic##[href*="/subscription"] 
-asuracomic##.max-w-7xl.mx-auto.px-4.py-8.relative.z-20 
-asuracomic.net#?#div[class*="flex items-center justify-center flex-col"] 
-asuracomic.net#?#div[class*="z-50"] 
-asuracomic.net#?#div[class*="relative w-full"] 
-shinigami09##[src*="https://img.shinigami"] 
-shinigami09#?#div[class*="iklan"] 
-shinigami09,mgkomik##.ad 
-shinigami09##[style="display: block;"] 
+! deprecated filters.
+!realmoasis##.ver-src.hillt.chapter 
+!reaperscans##.col-span-12.container 
+!asuracomic##.bg-gradient-to-br.from-indigo-900.via-purple-900.to-indigo-800.text-white.py-8.px-4.md\:py-12.md\:px-10.shadow-lg.relative.overflow-hidden 
+!asuracomic##[style*="pointer-events: auto;"] 
+!asuracomic##.fixed.inset-0.bg-gray-900.bg-opacity-75.flex.items-center.justify-center.z-50.p-4 
+!asuracomic##[href*="/subscription"] 
+!asuracomic##.max-w-7xl.mx-auto.px-4.py-8.relative.z-20 
+!asuracomic.net#?#div[class*="flex items-center justify-center flex-col"] 
+!asuracomic.net#?#div[class*="z-50"] 
+!asuracomic.net#?#div[class*="relative w-full"] 
+!shinigami09##[src*="https://img.shinigami"] 
+!shinigami09#?#div[class*="iklan"] 
+!shinigami09,mgkomik##.ad 
+!shinigami09##[style="display: block;"] 
 mgkomik##[src*="/content"] 
+mgkomik##[rel*="nofollow"] 
 mgkomik#?#div[id*="ads"] 
-manhwahentai.me###opt_playVideo 
 ikiru##.blox.mlb.kln 
 ikiru##.max-w-7xl.w-full.mx-auto 
 mangabats##.ads-contain 
-mangabats##[data-cfasync*="false"] 
+mangabats##.fly-ads-chapter-page
+mangabats##[data-cfasync*="false"]
+manhwahentai.me###opt_playVideo  
 ! block annoying yt section 
 youtube.com##[has-expansion-button]
+youtube##ytm-horizontal-card-list-renderer
 
