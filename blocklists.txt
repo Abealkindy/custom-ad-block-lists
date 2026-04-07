@@ -36,7 +36,8 @@ x.com##.css-175oi2r.r-1awozwy.r-g2wdr4.r-1kqtdi0.r-1867qdf.r-rs99b7.r-18u37iz.r-
 ! iklan komik bajakan 
 realmoasis##.ver-src.hillt.chapter 
 reaperscans##.col-span-12.container 
-asuracomic##.bg-gradient-to-br.from-indigo-900.via-purple-900.to-indigo-800.text-white.py-8.px-4.md:py-12.md:px-10.shadow-lg.relative.overflow-hidden asuracomic##[style*="pointer-events: auto;"] 
+asuracomic##.bg-gradient-to-br.from-indigo-900.via-purple-900.to-indigo-800.text-white.py-8.px-4.md:py-12.md:px-10.shadow-lg.relative.overflow-hidden 
+asuracomic##[style*="pointer-events: auto;"] 
 asuracomic##.fixed.inset-0.bg-gray-900.bg-opacity-75.flex.items-center.justify-center.z-50.p-4 
 asuracomic##[href*="/subscription"] 
 asuracomic##.max-w-7xl.mx-auto.px-4.py-8.relative.z-20 
