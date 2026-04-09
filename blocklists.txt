@@ -32,8 +32,12 @@ x.com#?#div[data-testid=cellInnerDiv]:has(h2)
 x.com#?#div[data-testid=cellInnerDiv]:has(div[data-testid="trend"])
 x.com#?#div[data-testid=cellInnerDiv]:has(div[data-testid="listCell"])
 x.com##[aria-label$="’s posts"] div[data-testid=cellInnerDiv]:has(button[data-testid="UserCell"])
+x.com##[aria-label$="’s posts"] div[data-testid=cellInnerDiv]:has(a[href^="/i/connect_people"])
 x.com##[aria-label="Timeline: Explore"] div[data-testid=cellInnerDiv]:has(button[data-testid="UserCell"])
-x.com##[aria-label="Timeline: Search timeline"] div[data-testid=cellInnerDiv]:has(button[data-testid="UserCell"])
+x.com##[aria-label="Timeline: Explore"] div[data-testid=cellInnerDiv]:has(a[href^="/i/connect_people"])
+x.com##[aria-label="Home Timeline"] div[data-testid=cellInnerDiv]:has(button[data-testid="UserCell"])
+x.com##[aria-label="Home Timeline"] div[data-testid=cellInnerDiv]:has(a[href^="/i/connect_people"])
+x.com##[aria-label$="Timeline: Conversation"] div[data-testid=cellInnerDiv]:has(h2) ~ div
 x.com#?#div[data-testid=cellInnerDiv]:has-text(/[gr4][o0]k/)
 x.com#?#div[data-testid=cellInnerDiv]:has-text(Made with AI)
 x.com##[href*="/i/grok"] 
