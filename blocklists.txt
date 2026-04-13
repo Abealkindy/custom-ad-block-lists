@@ -68,6 +68,15 @@ x.com##.css-175oi2r.r-1awozwy.r-g2wdr4.r-1kqtdi0.r-1867qdf.r-rs99b7.r-18u37iz.r-
 
 
 ! iklan komik bajakan 
+mgkomik##[src*="/content"] 
+mgkomik##[rel*="nofollow"] 
+mgkomik#?#div[id*="ads"] 
+ikiru##.blox.mlb.kln 
+ikiru##.max-w-7xl.w-full.mx-auto 
+mangabats##.ads-contain 
+mangabats##.fly-ads-chapter-page
+mangabats##[data-cfasync*="false"]
+manhwahentai.me###opt_playVideo  
 ! deprecated filters.
 !realmoasis##.ver-src.hillt.chapter 
 !reaperscans##.col-span-12.container 
@@ -83,16 +92,11 @@ x.com##.css-175oi2r.r-1awozwy.r-g2wdr4.r-1kqtdi0.r-1867qdf.r-rs99b7.r-18u37iz.r-
 !shinigami09#?#div[class*="iklan"] 
 !shinigami09,mgkomik##.ad 
 !shinigami09##[style="display: block;"] 
-mgkomik##[src*="/content"] 
-mgkomik##[rel*="nofollow"] 
-mgkomik#?#div[id*="ads"] 
-ikiru##.blox.mlb.kln 
-ikiru##.max-w-7xl.w-full.mx-auto 
-mangabats##.ads-contain 
-mangabats##.fly-ads-chapter-page
-mangabats##[data-cfasync*="false"]
-manhwahentai.me###opt_playVideo  
+
 ! block annoying yt section 
 youtube.com##[has-expansion-button]
 youtube##ytm-horizontal-card-list-renderer
+youtube##.ytdChipsShelfWithVideoShelfRendererHost
+! block recommendations above comment page
+youtube##.ytd-watch-next-secondary-results-renderer
 
