@@ -42,10 +42,13 @@ x.com##[aria-label$="’s posts"] div[data-testid=cellInnerDiv]:has(button[data-
 x.com##[aria-label$="’s posts"] div[data-testid=cellInnerDiv]:has(a[href^="/i/connect_people"])
 x.com##[aria-label="Timeline: Explore"] div[data-testid=cellInnerDiv]:has(button[data-testid="UserCell"])
 x.com##[aria-label="Timeline: Explore"] div[data-testid=cellInnerDiv]:has(a[href^="/i/connect_people"])
+x.com##[aria-label="Timeline: Your Home Timeline"] div[data-testid=cellInnerDiv]:has(button[data-testid="UserCell"])
+x.com##[aria-label="Timeline: Your Home Timeline"] div[data-testid=cellInnerDiv]:has(a[href^="/i/connect_people"])
 x.com##[aria-label="Home Timeline"] div[data-testid=cellInnerDiv]:has(button[data-testid="UserCell"])
 x.com##[aria-label="Home Timeline"] div[data-testid=cellInnerDiv]:has(a[href^="/i/connect_people"])
 ! blocks "Show More" that leads into explore page from your timeline
 x.com##[aria-label="Home Timeline"] div[data-testid=cellInnerDiv]:has(a[href^="/explore"])
+x.com##[aria-label="Timeline: Your Home Timeline"] div[data-testid=cellInnerDiv]:has(a[href^="/explore"])
 ! blocks any suggested post below any comment section
 x.com##[aria-label$="Timeline: Conversation"] div[data-testid=cellInnerDiv]:has(h2) ~ div
 
