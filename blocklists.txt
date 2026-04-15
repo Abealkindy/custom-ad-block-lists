@@ -1,7 +1,7 @@
 [Adblock Plus]
 
-! Title: Grok's and Annoyances Blocker
-! Description: (Mainly) blocks most of Grok's and Premium buttons
+! Title: My very personal blocklist
+! Description: blocks most of Twitter and Facebook annoyances (Grok, premium, unblocked ads, reels, and others)
 ! Homepage: https://github.com/Abealkindy/custom-ad-block-lists
 ! Expires: 1 day
 
