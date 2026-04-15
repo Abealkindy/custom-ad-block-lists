@@ -71,15 +71,26 @@ x.com##.css-175oi2r.r-1awozwy.r-g2wdr4.r-1kqtdi0.r-1867qdf.r-rs99b7.r-18u37iz.r-
 ! === some unblocked facebook ads and reels section
 ! ads in form of post
 facebook.com#?#div[class="x1lliihq"]:has(a[href^="/ads/"])
+facebook.com#?#div[data-dcm-id="1"]:has-text(Sponsored)
+facebook.com#?#div[class="m bg-s7 vertically-snappable displayed"]:has-text(Sponsored)
 ! ads in sidebar
 facebook.com#?#div[class="x1n2onr6 x1uc6qws xyen2ro"]:has-text(Sponsored)
 ! hide reels section
 facebook.com#?#div[class="x1lliihq"]:has-text(Reels)
+facebook.com#?#div[data-dcm-id="1"]:has-text(Reels)
+facebook.com##[aria-label^="reels"]
+facebook.com##[aria-label^="Reels"]
 facebook.com#?#div[class="x6s0dn4 x78zum5 x1s65kcs x1n2onr6"]:has(a[href^="/reel/"])
 facebook.com#?#li[class="html-li xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl"]:has-text(Reels)
 ! hide other annoyances
 facebook.com#?#div[class="x1lliihq"]:has-text(Your group suggestions)
+facebook.com#?#div[class="x1lliihq"]:has-text(Suggested for you)
 facebook.com#?#div[class="x1lliihq"]:has-text(People you may know)
+facebook.com#?#div[data-dcm-id="1"]:has-text(Your group suggestions)
+facebook.com#?#div[data-dcm-id="1"]:has-text(Suggested for you)
+facebook.com#?#div[data-dcm-id="1"]:has-text(People you may know)
+facebook.com#?#div[class="m fixed-container bottom"]:has-text(Open app)
+facebook.com##[aria-label^="Open app"]
 
 ! === iklan komik bajakan 
 mgkomik##[src*="/content"] 
