@@ -5,7 +5,7 @@
 ! Homepage: https://github.com/Abealkindy/custom-ad-block-lists
 ! Expires: 1 day
 
-! iklan streaming olahraga bajakan 
+! === iklan streaming olahraga bajakan 
 shop##.czlll-rlselse 
 cfd##.czlll-rlselse 
 rbtvplus18##.czlll-rlselse 
@@ -29,8 +29,7 @@ jllivetx.com##.cover 
 jalahs77##.kpgg-two-bo > .el-image > .el-image__inner 
 
 
-! twitter blocks
-
+! === twitter blocks
 ! annoying sections and unnecessary recommendations
 ! blocks any header that usually shown in an annoying section such as "Discover More", etc.
 x.com#?#div[data-testid=cellInnerDiv]:has(h2)
@@ -69,8 +68,14 @@ x.com##.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-
 x.com##.css-175oi2r.r-1habvwh.r-kemksi.r-1kqtdi0.r-1q9bdsx.r-rs99b7.r-1ssbvtb.r-1mmae3n.r-3pj75a 
 x.com##.css-175oi2r.r-1awozwy.r-g2wdr4.r-1kqtdi0.r-1867qdf.r-rs99b7.r-18u37iz.r-1wtj0ep.r-knv0ih.r-1mmae3n.r-3o4zer.r-1loqt21.r-1ny4l3l 
 
+! === some unblocked facebook ads
+! ads in form of post
+facebook.com#?#div[class="x1lliihq"]:has(a[href^="/ads/"])
+! ads in sidebar
+facebook.com#?#div[class="x1n2onr6 x1uc6qws xyen2ro"]:has-text(Sponsored)
 
-! iklan komik bajakan 
+
+! === iklan komik bajakan 
 mgkomik##[src*="/content"] 
 mgkomik##[rel*="nofollow"] 
 mgkomik#?#div[id*="ads"] 
