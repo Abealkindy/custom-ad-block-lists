@@ -98,9 +98,8 @@ mgkomik##[rel*="nofollow"] 
 mgkomik#?#div[id*="ads"] 
 ikiru##.blox.mlb.kln 
 ikiru##.max-w-7xl.w-full.mx-auto 
-mangabats##.ads-contain 
+mangabats##.ads-contain-v2 
 mangabats##.fly-ads-chapter-page
-mangabats##[data-cfasync*="false"]
 manhwahentai.me###opt_playVideo  
 ! deprecated filters.
 !realmoasis##.ver-src.hillt.chapter 
