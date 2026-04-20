@@ -101,7 +101,8 @@ ikiru##.max-w-7xl.w-full.mx-auto 
 mangabats##.ads-contain-v2 
 mangabats##.fly-ads-chapter-page
 manhwahentai.me###opt_playVideo  
-asurascans#?#astro-island[component-url*="Banner"]
+asurascans,asuracomic,asura#?#astro-island[component-url*="Banner"]
+asurascans,asuracomic,asura##[href*="/subscription"] 
 
 ! block annoying yt section 
 youtube.com##[has-expansion-button]
