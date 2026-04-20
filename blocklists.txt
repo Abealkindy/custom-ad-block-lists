@@ -101,21 +101,7 @@ ikiru##.max-w-7xl.w-full.mx-auto 
 mangabats##.ads-contain-v2 
 mangabats##.fly-ads-chapter-page
 manhwahentai.me###opt_playVideo  
-! deprecated filters.
-!realmoasis##.ver-src.hillt.chapter 
-!reaperscans##.col-span-12.container 
-!asuracomic##.bg-gradient-to-br.from-indigo-900.via-purple-900.to-indigo-800.text-white.py-8.px-4.md\:py-12.md\:px-10.shadow-lg.relative.overflow-hidden 
-!asuracomic##[style*="pointer-events: auto;"] 
-!asuracomic##.fixed.inset-0.bg-gray-900.bg-opacity-75.flex.items-center.justify-center.z-50.p-4 
-!asuracomic##[href*="/subscription"] 
-!asuracomic##.max-w-7xl.mx-auto.px-4.py-8.relative.z-20 
-!asuracomic.net#?#div[class*="flex items-center justify-center flex-col"] 
-!asuracomic.net#?#div[class*="z-50"] 
-!asuracomic.net#?#div[class*="relative w-full"] 
-!shinigami09##[src*="https://img.shinigami"] 
-!shinigami09#?#div[class*="iklan"] 
-!shinigami09,mgkomik##.ad 
-!shinigami09##[style="display: block;"] 
+asurascans#?#astro-island[component-url*="Banner"]
 
 ! block annoying yt section 
 youtube.com##[has-expansion-button]
