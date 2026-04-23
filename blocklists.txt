@@ -26,7 +26,8 @@ jalahs77.com##.maskClass
 jalahs77.com##.noticebar
 jalahs77.com##.rightListBox
 jllivetx.com##.cover 
-jalahs77##.kpgg-two-bo > .el-image > .el-image__inner 
+jalahs77##.kpgg-two-bo > .el-image > .el-image__inner
+idlixku##.min-w-0
 
 
 ! === twitter blocks
