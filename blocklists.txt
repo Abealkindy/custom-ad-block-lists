@@ -58,16 +58,16 @@ x.com##[href*="/i/grok"] 
 x.com##[href*="/i/premium_sign_up"] 
 x.com##[aria-label*="Grok actions"] 
 x.com##[aria-label*="Profile Summary"]
-x.com##.css-175oi2r.r-1777fci.r-1wzrnnt
+x.com##.css-g5y9jx.r-1777fci.r-1wzrnnt
 x.com##[data-testid*="grokImgGen"]
-x.com##.css-175oi2r.r-rki7wi.r-1ba6zt5.r-u8s1d
+x.com##.css-g5y9jx.r-rki7wi.r-1ba6zt5.r-u8s1d
 x.com##[data-testid*="GrokDrawer"]
 ! apparently, this one is too strong. gotta search for more accurate filter lol
 ! x.com#?#div[data-testid=cellInnerDiv]:has-text(/[gr4][o0]k/)
-x.com##.css-175oi2r.r-1s2bzr4.r-dnmrzs.r-bnwqim 
-x.com##.css-175oi2r.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x
-x.com##.css-175oi2r.r-1habvwh.r-kemksi.r-1kqtdi0.r-1q9bdsx.r-rs99b7.r-1ssbvtb.r-1mmae3n.r-3pj75a 
-x.com##.css-175oi2r.r-1awozwy.r-g2wdr4.r-1kqtdi0.r-1867qdf.r-rs99b7.r-18u37iz.r-1wtj0ep.r-knv0ih.r-1mmae3n.r-3o4zer.r-1loqt21.r-1ny4l3l 
+x.com##.css-g5y9jx.r-1s2bzr4.r-dnmrzs.r-bnwqim 
+x.com##.css-g5y9jx.r-kemksi.r-1kqtdi0.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x
+x.com##.css-g5y9jx.r-1habvwh.r-kemksi.r-1kqtdi0.r-1q9bdsx.r-rs99b7.r-1ssbvtb.r-1mmae3n.r-3pj75a 
+x.com##.css-g5y9jx.r-1awozwy.r-g2wdr4.r-1kqtdi0.r-1867qdf.r-rs99b7.r-18u37iz.r-1wtj0ep.r-knv0ih.r-1mmae3n.r-3o4zer.r-1loqt21.r-1ny4l3l 
 
 ! === some unblocked facebook ads and reels section
 ! ads in form of post
