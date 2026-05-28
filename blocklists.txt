@@ -9,26 +9,26 @@
 shop##.czlll-rlselse 
 cfd##.czlll-rlselse
 ru#?#[data-v-6e6b9f26]
-rbtvplus18##.czlll-rlselse
-808fubo18,tigoals232#?#[data-v-0b9273f2] 
-808fubo18,tigoals232#?#[data-v-b8137b42] 
-808fubo18,tigoals232#?#[data-v-282c7241] 
-808fubo18,tigoals232#?#[data-v-c77375b8] 
-808fubo18,tigoals232#?#[data-v-4cbb90e7] 
+rbtvplus18.autos##.czlll-rlselse
+808fubo18,tigoals232.com#?#[data-v-0b9273f2] 
+808fubo18,tigoals232.com#?#[data-v-b8137b42] 
+808fubo18,tigoals232.com#?#[data-v-282c7241] 
+808fubo18,tigoals232.com#?#[data-v-c77375b8] 
+808fubo18,tigoals232.com#?#[data-v-4cbb90e7] 
 shop#?#[data-v-782d08fc] 
 shop#?#[data-v-65c1f74c] 
 shop#?#[data-v-ee857c74] 
-jalahs77##.hongbao1e
-jalahs77##.el-dialog
-jalahs77##.upadn
-jalahs77##.live-funst
+jalahs77.com##.hongbao1e
+jalahs77.com##.el-dialog
+jalahs77.com##.upadn
+jalahs77.com##.live-funst
 jalahs77.com##[id="playerTabs"]
 jalahs77.com##.van-overlay
 jalahs77.com##.maskClass
 jalahs77.com##.noticebar
 jalahs77.com##.rightListBox
 jllivetx.com##.cover 
-jalahs77##.kpgg-two-bo > .el-image > .el-image__inner
+jalahs77.com##.kpgg-two-bo > .el-image > .el-image__inner
 idlixku##.min-w-0
 
 
@@ -105,18 +105,18 @@ facebook.com##[aria-label^="Open app"]
 mgkomik##[src*="/content"] 
 mgkomik##[rel*="nofollow"] 
 mgkomik#?#div[id*="ads"] 
-ikiru##.blox.mlb.kln 
-ikiru##.max-w-7xl.w-full.mx-auto 
-mangabats##.ads-contain-v2 
-mangabats##.fly-ads-chapter-page
+ikiru.wtf##.blox.mlb.kln 
+ikiru.wtf##.max-w-7xl.w-full.mx-auto 
+mangabats.com##.ads-contain-v2 
+mangabats.com##.fly-ads-chapter-page
 manhwahentai.me###opt_playVideo  
-asurascans,asuracomic,asura#?#astro-island[component-url*="Banner"]
-asurascans,asuracomic,asura##[href*="/subscription"] 
+asurascans.com,asuracomic,asura#?#astro-island[component-url*="Banner"]
+asurascans.com,asuracomic,asura##[href*="/subscription"] 
 
 ! block annoying yt section 
 youtube.com##[has-expansion-button]
-youtube##ytm-horizontal-card-list-renderer
-youtube##.ytdChipsShelfWithVideoShelfRendererHost
+youtube.com##ytm-horizontal-card-list-renderer
+youtube.com##.ytdChipsShelfWithVideoShelfRendererHost
 ! block recommendations above comment page
-youtube##.ytd-watch-next-secondary-results-renderer
+youtube.com##.ytd-watch-next-secondary-results-renderer
 
