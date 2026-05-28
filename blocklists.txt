@@ -26,9 +26,9 @@ jalahs77.com##[id="playerTabs"]
 jalahs77.com##.van-overlay
 jalahs77.com##.maskClass
 jalahs77.com##.noticebar
-jalahs77.com##.rightListBox
-jllivetx.com##.cover 
-jalahs77.com##.kpgg-two-bo > .el-image > .el-image__inner
+jalahs77.com##.rightListBox 
+jalahs77.com##.adver
+jllivetx.com##.cover
 idlixku##.min-w-0
 
 
