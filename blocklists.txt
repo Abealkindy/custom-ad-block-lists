@@ -9,7 +9,7 @@
 shop##.czlll-rlselse 
 cfd##.czlll-rlselse
 ru#?#[data-v-6e6b9f26]
-rbtvplus18##[class*="flss czlll-rlselse"]
+rbtvplus18##.czlll-rlselse
 808fubo18,tigoals232#?#[data-v-0b9273f2] 
 808fubo18,tigoals232#?#[data-v-b8137b42] 
 808fubo18,tigoals232#?#[data-v-282c7241] 
