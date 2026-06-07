@@ -55,7 +55,7 @@ x.com##[aria-label="Timeline: Your Home Timeline"] div[data-testid=cellInnerDiv]
 x.com##[aria-label$="Timeline: Conversation"] div[data-testid=cellInnerDiv]:has(h2) ~ div
 
 ! block most of annoying grok slop features (except translation), annoying premium promos, and big ass distracting section like Trending from your timeline
-x.com#?#div[data-testid=cellInnerDiv]:has-text(Made with AI)
+x.com#?#div[data-testid=cellInnerDiv]:has-text(Made with)
 x.com##[href*="/i/grok"] 
 x.com##[href*="/i/premium_sign_up"] 
 x.com##[aria-label*="Grok actions"] 
