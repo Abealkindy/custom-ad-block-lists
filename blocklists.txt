@@ -112,7 +112,8 @@ mangabats.com##.ads-contain-v2 
 mangabats.com##.fly-ads-chapter-page
 manhwahentai.me###opt_playVideo  
 asurascans.com,asuracomic,asura#?#astro-island[component-url*="Banner"]
-asurascans.com,asuracomic,asura##[href*="/subscription"] 
+asurascans.com,asuracomic,asura##[href*="/subscription"]
+genztoons.org##[id="popup_banner"]
 
 ! block annoying yt section 
 youtube.com##[has-expansion-button]
