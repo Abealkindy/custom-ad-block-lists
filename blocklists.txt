@@ -24,7 +24,12 @@ rbtvplus18.*##.fr-links
 808fubo25.com,tigoals233.com#?#[data-v-48ba20b8] 
 808fubo25.com,tigoals233.com#?#[data-v-580f2968] 
 808fubo25.com,tigoals233.com#?#[data-v-a76f5102] 
-808fubo25.com,tigoals233.com##.single-w4 
+808fubo25.com,tigoals233.com##.single-w4
+808fubo25.com,tigoals233.com##.gg-tb:has-text(Top Bookmakers)
+808fubo25.com,tigoals233.com##[href="/campaign.html?from=nav"]
+808fubo25.com,tigoals233.com##[href="/contact.html"]
+808fubo25.com,tigoals233.com##.odds
+808fubo25.com,tigoals233.com##.search-button:has-text(Odds) 
 808fubo25.com,tigoals233.com#?#[class="hdn-box"] 
 shop#?#[data-v-782d08fc] 
 shop#?#[data-v-65c1f74c] 
