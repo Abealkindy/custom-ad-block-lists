@@ -7,7 +7,12 @@
 
 ! === iklan streaming olahraga bajakan 
 shop##.czlll-rlselse 
+shop##.van-tab:has-text(Taruhan) 
+shop#?#[data-v-782d08fc] 
+shop#?#[data-v-65c1f74c] 
+shop#?#[data-v-ee857c74] 
 cfd##.czlll-rlselse
+cfd##.van-tab:has-text(Taruhan)
 ru#?#[data-v-6e6b9f26]
 ru#?#[data-v-2310dad8]
 ru#?#[data-v-3aa8e714]
@@ -33,10 +38,7 @@ rbtvplus18.*#?#a[class="tab-sports-more-item"]
 808fubo25.com,tigoals233.com##[href="/contact.html"]
 808fubo25.com,tigoals233.com##.odds
 808fubo25.com,tigoals233.com##.search-button:has-text(Odds) 
-808fubo25.com,tigoals233.com#?#[class="hdn-box"] 
-shop#?#[data-v-782d08fc] 
-shop#?#[data-v-65c1f74c] 
-shop#?#[data-v-ee857c74] 
+808fubo25.com,tigoals233.com#?#[class="hdn-box"]
 jalahs77.com##.hongbao1e
 jalahs77.com##.el-dialog
 jalahs77.com##.upadn
