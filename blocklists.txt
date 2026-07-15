@@ -16,6 +16,8 @@ rbtvplus18.*##.swZE09
 rbtvplus18.*##.YrQg2U
 rbtvplus18.*##.flss.MLgvpn
 rbtvplus18.*##.fr-links
+rbtvplus18.*#?#a[class="item"]
+rbtvplus18.*#?#a[class="tab-sports-more-item"]
 808fubo25.com,tigoals233.com#?#[data-v-0b9273f2] 
 808fubo25.com,tigoals233.com#?#[data-v-b8137b42] 
 808fubo25.com,tigoals233.com#?#[data-v-282c7241] 
