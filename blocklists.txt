@@ -51,7 +51,7 @@ jalahs77.com##[id="playerTabs"]
 jalahs77.com##.van-overlay
 jalahs77.com##.maskClass
 jalahs77.com##.noticebar
-jalahs77.com##.kpgg
+jalahs77.com##.kpgg-box
 jalahs77.com##.el-overlay
 jalahs77.com##.videcons-danmaku
 jalahs77.com##.rightListBox 
