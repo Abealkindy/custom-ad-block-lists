@@ -37,6 +37,9 @@ rbtvplus18.*#?#a[class="tab-sports-more-item"]
 808fubo25.com,tigoals233.com##[href="/campaign.html?from=nav"]
 808fubo25.com,tigoals233.com##[href="/contact.html"]
 808fubo25.com,tigoals233.com##.odds
+808fubo25.com,tigoals233.com##.detail-left-odds
+808fubo25.com,tigoals233.com##button[class="tab-item"]:has-text(Odds)
+808fubo25.com,tigoals233.com##button[class="tab-item"]:has-text(Tips)
 808fubo25.com,tigoals233.com##.search-button:has-text(Odds) 
 808fubo25.com,tigoals233.com#?#[class="hdn-box"]
 jalahs77.com##.hongbao1e
