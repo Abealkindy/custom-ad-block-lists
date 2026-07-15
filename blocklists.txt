@@ -16,6 +16,7 @@ cfd##.van-tab:has-text(Taruhan)
 ru#?#[data-v-6e6b9f26]
 ru#?#[data-v-2310dad8]
 ru#?#[data-v-3aa8e714]
+com##.vjs-poster
 rbtvplus18.*##.czlll-rlselse
 rbtvplus18.*##.swZE09
 rbtvplus18.*##.YrQg2U
