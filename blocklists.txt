@@ -122,7 +122,6 @@ facebook.com##div[data-dcm-id="1"]:has(img[class^="img cover"])
 facebook.com##div[data-dcm-id="1"]:has(div[data-testid="sponsored-story-photo"])
 facebook.com##div[data-dcm-id="1"]:has(div[data-video-tracking^="{"adid":"])
 facebook.com##div[data-dcm-id="1"]:has(div[data-is-h-scrollable])
-facebook.com##div[data-dcm-id="1"]:has(h2)
 facebook.com#?#div[data-dcm-id="1"]:has-text(AI content)
 facebook.com##.m.vscroller.vscroller-snap.vscroller-snap-start.force-reset-scroll-height div[class="m bg-s8 vertically-snappable displayed"]:has-text(Sponsored)
 facebook.com##.m.vscroller.vscroller-snap.vscroller-snap-start.force-reset-scroll-height div[class="m bg-s8 vertically-snappable displayed"]:has(span[class="f19"]:has-text(/^ads?\b/i))
@@ -142,6 +141,8 @@ facebook.com#?#li[class="html-li xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b
 facebook.com#?#div[class="x1lliihq"]:has-text(Your group suggestions)
 facebook.com#?#div[class="x1lliihq"]:has-text(Suggested for you)
 facebook.com#?#div[class="x1lliihq"]:has-text(People you may know)
+facebook.com##div[data-dcm-id="1"]:has(h2)
+facebook.com##div[data-tti-phase="-1"]:has(h3)
 facebook.com#?#div[class="m fixed-container bottom"]:has-text(Open app)
 facebook.com##[aria-label^="Open app"]
 
