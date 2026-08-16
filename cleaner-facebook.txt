@@ -1,1 +1,40 @@
+[Adblock Plus]
 
+! Title: Facebook Ads and Annoyances Blocker
+! Description: blocks most of Facebook ads and annoyances (reels and recommendations)
+! Homepage: https://github.com/Abealkindy/custom-ad-block-lists
+! Expires: 1 day
+
+! === some unblocked facebook ads and reels section
+! ads in form of post
+facebook.com#?#div[class="x1lliihq"]:has(div[data-ad-rendering-role="cta-"])
+facebook.com##div[data-dcm-id="1"]:has(div[data-tracking-image-id])
+facebook.com#?#.m.vscroller.vscroller-snap.vscroller-snap-start.force-reset-scroll-height div[class="m bg-s8 vertically-snappable displayed"]:has-text(Sponsored)
+facebook.com#?#.m.vscroller.vscroller-snap.vscroller-snap-start.force-reset-scroll-height div[class="m bg-s8 vertically-snappable displayed"]:has(span[class="f19"]:has-text(/^ads?\b/i))
+! ads in sidebar
+facebook.com#?#div[class="x1n2onr6 x1uc6qws xyen2ro"]:has-text(Sponsored)
+! hide reels section
+facebook.com#?#div[class="x1lliihq"]:has-text(Reels)
+facebook.com##[aria-label^="reels"]
+facebook.com##[aria-label^="Reels"]
+facebook.com#?#div[class="x6s0dn4 x78zum5 x1s65kcs x1n2onr6"]:has(a[href^="/reel/"])
+facebook.com#?#li[class="html-li xdj266r x14z9mp xat24cr x1lziwak xexx8yu xyri2b x18d9i69 x1c1uobl"]:has-text(Reels)
+! hide other annoyances
+facebook.com#?#div[class="x1lliihq"]:has-text(AI content)
+facebook.com#?#div[class="x1lliihq"]:has-text(Your group suggestions)
+facebook.com#?#div[class="x1lliihq"]:has-text(Suggested for you)
+facebook.com#?#div[class="x1lliihq"]:has-text(People you may know)
+facebook.com##div[data-dcm-id="1"]:has(h2)
+facebook.com##div[data-dcm-id="1"]:has-text(AI content)
+facebook.com#?#div[class="m fixed-container bottom"]:has-text(Open app)
+facebook.com##[aria-label^="Open app"]
+
+
+!facebook.com#?#.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x193iq5w.xeuugli.x1r8uery.x1iyjqo2.xs83m0k.x1dr59a3.xadl8oe div[class="x9f619 x78zum5 xl56j7k x1bhewko xgv127d x16ye13r xjqpyvm x120eax6 xnvo3vl x1jm3axb"]:has-text(FlareFlow)
+!facebook.com#?#.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x193iq5w.xeuugli.x1r8uery.x1iyjqo2.xs83m0k.x1dr59a3.xadl8oe div[class="x9f619 x78zum5 xl56j7k x1bhewko xgv127d x16ye13r xjqpyvm x120eax6 xnvo3vl x1jm3axb"]:has-text(Dhar Mann)
+!facebook.com#?#.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x193iq5w.xeuugli.x1r8uery.x1iyjqo2.xs83m0k.x1dr59a3.xadl8oe div[class="x9f619 x78zum5 xl56j7k x1bhewko xgv127d x16ye13r xjqpyvm x120eax6 xnvo3vl x1jm3axb"]:has-text(KukuTV)
+!facebook.com#?#.x9f619.x1n2onr6.x1ja2u2z.x78zum5.xdt5ytf.x193iq5w.xeuugli.x1r8uery.x1iyjqo2.xs83m0k.x1dr59a3.xadl8oe div[class="x9f619 x78zum5 xl56j7k x1bhewko xgv127d x16ye13r xjqpyvm x120eax6 xnvo3vl x1jm3axb"]:has-text(AI content)
+!facebook.com#?#.vscroller-snap.vscroller-snap-start.force-reset-scroll-height div[class="m bg-s8 vertically-snappable displayed"]:has-text(AI content)
+!facebook.com#?#.vscroller-snap.vscroller-snap-start.force-reset-scroll-height div[class="m bg-s8 vertically-snappable displayed"]:has-text(FlareFlow)
+!facebook.com#?#.vscroller-snap.vscroller-snap-start.force-reset-scroll-height div[class="m bg-s8 vertically-snappable displayed"]:has-text(Dhar Mann)
+!facebook.com#?#.vscroller-snap.vscroller-snap-start.force-reset-scroll-height div[class="m bg-s8 vertically-snappable displayed"]:has-text(KukuTV)
