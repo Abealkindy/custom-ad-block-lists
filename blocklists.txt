@@ -142,7 +142,7 @@ facebook.com#?#div[class="x1lliihq"]:has-text(Your group suggestions)
 facebook.com#?#div[class="x1lliihq"]:has-text(Suggested for you)
 facebook.com#?#div[class="x1lliihq"]:has-text(People you may know)
 facebook.com##div[data-dcm-id="1"]:has(h2)
-facebook.com##div[data-tti-phase="-1"]:has(h3)
+!facebook.com##div[data-tti-phase="-1"]:has(h3)
 facebook.com#?#div[class="m fixed-container bottom"]:has-text(Open app)
 facebook.com##[aria-label^="Open app"]
 
