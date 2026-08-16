@@ -32,6 +32,8 @@ rbtvplus18.*#?#a[class="tab-sports-more-item"]
 808fubo28.com,tigoals235.com#?#[data-v-48ba20b8] 
 808fubo28.com,tigoals235.com#?#[data-v-580f2968] 
 808fubo28.com,tigoals235.com#?#[data-v-a76f5102] 
+808fubo28.com,tigoals235.com#?#[data-v-65c1f74c] 
+808fubo28.com,tigoals235.com#?#[data-v-6d90cc90] 
 808fubo28.com,tigoals235.com##.single-w4
 808fubo28.com,tigoals235.com##.gg-tb:has-text(Top Bookmakers)
 808fubo28.com,tigoals235.com##.gg-tb:has-text(perjudian)
