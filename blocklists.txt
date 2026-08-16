@@ -11,6 +11,8 @@ shop##.van-tab:has-text(Taruhan) 
 shop#?#[data-v-782d08fc] 
 shop#?#[data-v-65c1f74c] 
 shop#?#[data-v-ee857c74] 
+xyz#?#[data-v-65c1f74c]  
+xyz#?#[data-v-6d90cc90] 
 cfd##.czlll-rlselse
 cfd##.van-tab:has-text(Taruhan)
 ru#?#[data-v-6e6b9f26]
@@ -32,8 +34,6 @@ rbtvplus18.*#?#a[class="tab-sports-more-item"]
 808fubo28.com,tigoals235.com#?#[data-v-48ba20b8] 
 808fubo28.com,tigoals235.com#?#[data-v-580f2968] 
 808fubo28.com,tigoals235.com#?#[data-v-a76f5102] 
-808fubo28.com,tigoals235.com#?#[data-v-65c1f74c] 
-808fubo28.com,tigoals235.com#?#[data-v-6d90cc90] 
 808fubo28.com,tigoals235.com##.single-w4
 808fubo28.com,tigoals235.com##.gg-tb:has-text(Top Bookmakers)
 808fubo28.com,tigoals235.com##.gg-tb:has-text(perjudian)
