@@ -110,6 +110,7 @@ x.com##.css-175oi2r.r-1awozwy.r-g2wdr4.r-1kqtdi0.r-1867qdf.r-rs99b7.r-18u37iz.r-
 ! === some unblocked facebook ads and reels section
 ! ads in form of post
 facebook.com#?#div[class="x1lliihq"]:has(div[data-ad-rendering-role="cta-"])
+facebook.com#?#div[class="x1lliihq"]:has(a[href^="https://l.facebook.com"])
 facebook.com##div[data-dcm-id="1"]:has(div[data-tracking-image-id])
 facebook.com#?#.m.vscroller.vscroller-snap.vscroller-snap-start.force-reset-scroll-height div[class="m bg-s8 vertically-snappable displayed"]:has-text(Sponsored)
 facebook.com#?#.m.vscroller.vscroller-snap.vscroller-snap-start.force-reset-scroll-height div[class="m bg-s8 vertically-snappable displayed"]:has(span[class="f19"]:has-text(/^ads?\b/i))
